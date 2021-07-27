@@ -1,21 +1,24 @@
 
 
-
-### Hi there 👋
-
-![](https://komarev.com/ghpvc/?username=ConnorCampagnaDeveloper)
+<H2 align="center">
+Alrighty 👋
+</h2>
+<p align="center">
+<img src="https://profile-counter.glitch.me/ConnorCampagnaDeveloper/count.svg">
+</p>
  
-<!--
-**ConnorCampagnaDeveloper/ConnorCampagnaDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">Im Connor, I Like To Code, Want To Be A Software Engineer and Like To Play Football When I Have Spare Time.</p> 
+ 
+ <p align="center">
+	<img src="https://github-readme-stats.vercel.app/api/?username=ConnorCampagnaDeveloper&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515"></img>
+</p>
 
-Here are some ideas to get you started:
+<H2 align="center">
+Languages I Use...
+</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="center">
+	<img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-python-icon.png"></img>
+ <img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-128x128_2x.png"></img>
+ </p>
+ 
